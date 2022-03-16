@@ -9,7 +9,7 @@ To answer the task goal, I used [Kaggle](https://www.kaggle.com/) website. The K
 ## A summary of data processing for this project can be viewed here:   
 **1.** Formulate goal   
 **2.** [Find data](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)   
-**3.** [Gather data](project_files/gather_data.ipynb) using API   
+**3.** [Gather data](project_files/gather_data.ipynb) using [API](https://www.kaggle.com/docs/api)   
 **4.** [Clean data (general cleaning and applying NLP) and store in a .csv file](project_files/cleaning_data.ipynb)   
 **5.** [Exploratory Analysis, including N-gram method](project_files/eda.ipynb)   
 **7.** [Build a Machine Learning model](project_files/model.ipynb)   
